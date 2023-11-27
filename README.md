@@ -21,14 +21,14 @@
 
 ### Competencies:
 
-- # **Languages:** Python, R, C#, Java, C++, JavaScript, JSON, Angular, HTML5, PHP, ReactJs, jQuery, Scala, Spark
+- **Languages:** Python, R, C#, Java, C++, JavaScript, JSON, Angular, HTML5, PHP, ReactJs, jQuery, Scala, Spark
   
-- Databases: MS SQL Server, MySQL, No SQL, Firebase, Oracle, MongoDB, BigQuery, Hadoop, Hive
+- **Databases:** MS SQL Server, MySQL, No SQL, Firebase, Oracle, MongoDB, BigQuery, Hadoop, Hive
 
-- Framework and Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, NLTK, PyTorch, Tensorflow and Keras
+- **Framework and Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, NLTK, PyTorch, Tensorflow and Keras
 
-- Tools and Services: Tableau, Power BI, RedShift, AWS EC2, S3, DynamoDB, Glue, Lambda, Airflow, Postman, Git, Jira
+- **Tools and Services:** Tableau, Power BI, RedShift, AWS EC2, S3, DynamoDB, Glue, Lambda, Airflow, Postman, Git, Jira
 
-- Data Warehousing: ETL, Data Modeling, Data Pipeline, Data Standards and Policies, Validation, Optimization
+- **Data Warehousing:** ETL, Data Modeling, Data Pipeline, Data Standards and Policies, Validation, Optimization
 
-- Professional Skills: Leadership, Strategic and Analytical Thinking, Problem-solving, Communication, Team Player
+- **Professional Skills:** Leadership, Strategic and Analytical Thinking, Problem-solving, Communication, Team Player
