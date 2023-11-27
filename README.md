@@ -21,7 +21,7 @@
 
 ### Competencies:
 
-- **Languages:** Python, R, C#, Java, C++, JavaScript, JSON, Angular, HTML5, PHP, ReactJs, jQuery, Scala, Spark
+- # **Languages:** Python, R, C#, Java, C++, JavaScript, JSON, Angular, HTML5, PHP, ReactJs, jQuery, Scala, Spark
   
 - Databases: MS SQL Server, MySQL, No SQL, Firebase, Oracle, MongoDB, BigQuery, Hadoop, Hive
 
