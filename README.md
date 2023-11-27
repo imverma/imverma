@@ -19,7 +19,7 @@
 
   - Available for internship and full-time roles, including remote positions.
 
-## Competencies:
+### Competencies:
 
 - Languages: Python, R, C#, Java, C++, JavaScript, JSON, Angular, HTML5, PHP, ReactJs, jQuery, Scala, Spark
   
