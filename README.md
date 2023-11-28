@@ -28,6 +28,4 @@
 - **Framework and Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, NLTK, PyTorch, Tensorflow and Keras
 - **Tools and Services:** Tableau, Power BI, Postman, Git, Jira, SAS
 
-### Portfolio Website: https://imverma.github.io/saurabh-verma.github.io/
-
- **  <a href="https://imverma.github.io/saurabh-verma.github.io/"> Portfolio Website </a> ** 
+ **<a href="https://imverma.github.io/saurabh-verma.github.io/"> Portfolio Website </a>** 
