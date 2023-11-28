@@ -20,12 +20,12 @@
   - Available for internship and full-time roles, including remote positions.
 
 ### Competencies:
-
-- **Languages:** Python, R, C#, Java, C++, JavaScript, JSON, Angular, HTML5, PHP, ReactJs, jQuery, Scala, Spark
-- **Databases:** MS SQL Server, MySQL, No SQL, Firebase, Oracle, MongoDB, BigQuery, Hadoop, Hive
+- **Languages:** Python, R, C#, Java, C++, JavaScript, Angular, HTML/CSS, Scala, PySpark
+- **Databases:** MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, Cassandra, BigQuery
+- **ETL/Big Data:** Apache Kafka, Informatica, Apache Hadoop, Apache Airflow, MapReduce, Databricks, ElasticSearch, SSIS
+- **Cloud /DevOps:** Linux, Jenkins, Docker, Kubernetes, Google Cloud Platform, AWS, Microsoft Azure
+- **Data Warehousing:** Amazon Redshift, Google BigQuery, Snowflake, ETL, Data Modeling, Data Pipeline
 - **Framework and Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, NLTK, PyTorch, Tensorflow and Keras
-- **Tools and Services:** Tableau, Power BI, RedShift, AWS EC2, S3, DynamoDB, Glue, Lambda, Airflow, Postman, Git, Jira
-- **Data Warehousing:** ETL, Data Modeling, Data Pipeline, Data Standards and Policies, Validation, Optimization
-- **Professional Skills:** Leadership, Strategic and Analytical Thinking, Problem-solving, Communication, Team Player
+- **Tools and Services:** Tableau, Power BI, Postman, Git, Jira, SAS
 
 ### Portfolio Website: https://imverma.github.io/saurabh-verma.github.io/
