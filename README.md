@@ -27,7 +27,7 @@
 🚀 **Professional Experience**:
 - **Data Engineer - Graduate Assistant** at [University of South Florida](https://www.usf.edu/): 
 - **Data Engineer** at [Accenture](https://www.accenture.com/us-en): 
-- **Business Intelligence Engineer Intern** at [SUVEN CONSULTANTS](https://suvenconsultants.com/): 
+- **Business Intelligence Engineer Intern** at [Suven Consultants](https://suvenconsultants.com/): 
 
 🔧 **Technical Stack**: 
 - **Languages:** Python, R, C#, Java, C++, JavaScript, Angular, HTML/CSS, Scala, PySpark
