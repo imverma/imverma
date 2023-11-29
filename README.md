@@ -20,7 +20,16 @@
 
   - Available for internship and full-time roles, including remote positions.
 
-### Competencies:
+🎓 **Education**: 
+- **MS in Business Aanalytics and Information Systems** from [University of South Florida | Muma College of Business](https://www.usf.edu/). Specialized in Analytics and Business Intelligence.
+- **BE in Computer Technology** from [Mumbai University | Vivekanand Education Society's Institute of Technology](https://mu.ac.in/).
+
+🚀 **Professional Experience**:
+- **Data Engineer - Graduate Assistant** at [University of South Florida](https://www.usf.edu/): 
+- **Data Engineer** at [Accenture](https://www.accenture.com/us-en): 
+- **Business Intelligence Engineer Intern** at [SUVEN CONSULTANTS](https://suvenconsultants.com/): 
+
+🔧 **Technical Stack**: 
 - **Languages:** Python, R, C#, Java, C++, JavaScript, Angular, HTML/CSS, Scala, PySpark
 - **Databases:** MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, Cassandra, BigQuery
 - **ETL/Big Data:** Apache Kafka, Informatica, Apache Hadoop, Apache Airflow, MapReduce, Databricks, ElasticSearch, SSIS
