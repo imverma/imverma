@@ -5,7 +5,7 @@
 
 
 - 😄 My pronouns are: He/His/Him
-- 🔭 I’m currently working as a Data Engineer Inter - Co-Op at Amgen.
+- 🔭 I’m currently working as a Data Engineer Intern - Co-Op at Amgen.
 - About me:
   - Data-Driven Problem Solver with Expertise in Data Pipelines, Scalable Infrastructure, and Cloud Computing
   - A seasoned data professional with over four years of experience harnessing the power of data to drive business growth and optimize operations. Proven expertise in designing, building, and maintaining data pipelines, ensuring seamless data flow from disparate sources to centralized repositories. Adept at leveraging cloud computing platforms to create scalable and cost-effective data infrastructure.
